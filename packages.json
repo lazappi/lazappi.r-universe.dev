@@ -1,0 +1,14 @@
+[
+    {
+        "package": "splatter",
+        "url": "https://github.com/Oshlack/splatter"
+    },
+    {
+        "package": "clustree",
+        "url": "https://github.com/lazappi/clustree"
+    },
+    {
+        "package": "zellkonverter",
+        "url": "https://github.com/theislab/zellkonverter"
+    }
+]
