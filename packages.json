@@ -10,5 +10,13 @@
     {
         "package": "zellkonverter",
         "url": "https://github.com/theislab/zellkonverter"
+    },
+    {
+        "package": "clamour",
+        "url": "https://github.com/lazappi/clamour"
+    },
+    {
+        "package": "doilinker",
+        "url": "https://github.com/lazappi/doilinker"
     }
 ]
