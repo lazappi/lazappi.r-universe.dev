@@ -18,5 +18,9 @@
     {
         "package": "doilinker",
         "url": "https://github.com/lazappi/doilinker"
+    },
+    {
+        "package": "anndataR",
+        "url": "https://github.com/scverse/anndataR"
     }
 ]
